@@ -1,0 +1,31 @@
+.logo {
+    height: 50;
+    float: left;
+}
+.main-header {
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    background-blend-mode: color;
+}
+.lead {
+    font-weight: bold;
+    font-size: 1.1fr;
+    text-emphasis: bold;
+
+}
+/* article {
+    float: inline-start;
+} */
+aside {
+    border: 10px;
+    float: right;
+    -webkit-box-shadow: 5px 5px 15px 5px; 
+    box-shadow: 5px 5px 15px 5px;
+}
+h3 {
+    border: 10px;
+}
+article {
+    background: #D0E4F5 url("http://www.innovadiscs.com/wp-content/uploads/2014/11/innova-default_og.jpg") repeat fixed 0px 0px;
+}
